@@ -1,2 +1,2 @@
 # VerZon
-![screenshot](verzon.png)
+![screenshot](images/verzon.png)
